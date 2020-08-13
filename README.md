@@ -1,2 +1,2 @@
-# Learning-Light-Tutoring
+# Learning Light Tutoring Services
 Tutoring Service to Students
